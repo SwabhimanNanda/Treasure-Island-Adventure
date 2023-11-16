@@ -13,4 +13,4 @@ Feel free to fork, contribute, or modify the code to enhance the adventure!
 2. Run the program using a Python interpreter.
 
 ```bash
-python treasure_island_adventure.py
+treasure_island_adventure.py
